@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bin/static/css/main.3221b496.css",
-    "main.js": "/bin/static/js/main.640f23fa.js",
+    "main.js": "/bin/static/js/main.2452e353.js",
     "static/media/about4.jpeg": "/bin/static/media/about4.d1b330ef09272b4636d7.jpeg",
     "static/media/bindu.jpg": "/bin/static/media/bindu.36a50bd6cdd99ed26dcd.jpg",
     "static/media/bindu .pdf": "/bin/static/media/bindu .21812e184a1153529925.pdf",
@@ -9,10 +9,10 @@
     "static/media/about2.jpg": "/bin/static/media/about2.8c304c1429684c0db779.jpg",
     "index.html": "/bin/index.html",
     "main.3221b496.css.map": "/bin/static/css/main.3221b496.css.map",
-    "main.640f23fa.js.map": "/bin/static/js/main.640f23fa.js.map"
+    "main.2452e353.js.map": "/bin/static/js/main.2452e353.js.map"
   },
   "entrypoints": [
     "static/css/main.3221b496.css",
-    "static/js/main.640f23fa.js"
+    "static/js/main.2452e353.js"
   ]
 }
